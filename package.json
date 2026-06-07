@@ -1,7 +1,7 @@
 {
   "name": "roblox-bot",
   "version": "1.0.0",
-  "main": "roblox.bot.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
